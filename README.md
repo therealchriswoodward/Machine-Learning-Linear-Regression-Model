@@ -1,6 +1,6 @@
 # Machine Learning Linear Regression Model
 
-This Jupyter Notebook demonstrates the code for building, training, and validating a linear regression model with SciKit Learn on a small dataset.
+This Jupyter Notebook demonstrates how to build, train, and validate a linear regression model with SciKit Learn on a small dataset.
 ***
 
 # Features
